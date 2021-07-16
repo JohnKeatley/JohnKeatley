@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I’m John Keatley :wave:
 
-I'm John Keatley, a Software Engineer working with ReactJS in [Cartrawler][cartrawler]
+I’m a Front-end Developer working with ReactJS.
 
-[cartrawler]: https://cartrawler.com
+Right now I’m developing products for a leading B2B provider of car rental and mobility solutions to the global travel industry with 10,000,000+ customers.
+
+You can reach out to me at johntkeatley@gmail.com
